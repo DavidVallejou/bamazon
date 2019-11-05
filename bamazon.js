@@ -206,3 +206,4 @@ function runBamazon() {
   managerView();
 }
 runBamazon()
+
